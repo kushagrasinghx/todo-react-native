@@ -29,6 +29,8 @@ const styles = StyleSheet.create({
         height: 90,
         justifyContent: 'center',
         alignItems: 'center',
+        borderBottomWidth: 1,
+        borderBottomColor: '#ddd',
     },
     title: {
         fontSize: 18,
